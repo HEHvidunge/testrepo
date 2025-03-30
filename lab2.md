@@ -12,8 +12,8 @@ The file get_dpf.py uses the following libraries:
 
 ## Tas J iii ##
 Here are a few examples of how the libraries are used in the code.
-opener = urllib.request.build_opener()
-except urllib.error.HTTPError as e:
-urllib.request.urlretrieve(pdf_link, foldername+"/"+pdf_name,headers=headers)
+* 'opener = urllib.request.build_opener()'
+* 'except urllib.error.HTTPError as e:'
+* 'urllib.request.urlretrieve(pdf_link, foldername+"/"+pdf_name,headers=headers)'
 
 
